@@ -1,0 +1,26 @@
+.topdiv {
+  display: flex;
+}
+.bottomdiv {
+  display: flex;
+  /* width: 30rem; */
+}
+h1{
+    margin-bottom: 0px !important;
+}
+.card-body{
+    padding: 8px 16px !important;
+}
+.card-title.h5{
+    margin-bottom: 0px;
+    padding-bottom: 4px;
+}
+/* .card-body{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+}
+.card-text{
+    margin-left: 20px;
+} */
