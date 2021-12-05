@@ -29,7 +29,6 @@ const AddItem = () => {
                 aria-label="category"
                 aria-describedby="basic-addon1"
                 name="entryCategory"
-                value="abcd"
               />
             </InputGroup>
             <InputGroup className="mb-3">
