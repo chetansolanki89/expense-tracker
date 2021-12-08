@@ -24,3 +24,13 @@ h1{
 .card-text{
     margin-left: 20px;
 } */
+
+/* @media only screen and (max-width: 30rem){
+    .topdiv {
+        display: flex;
+        flex-wrap: wrap;
+      }
+      .card-body{
+          width: 50%;
+      }
+} */
